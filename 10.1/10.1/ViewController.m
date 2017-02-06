@@ -21,10 +21,11 @@
     vi.backgroundColor =[UIColor purpleColor];
     [self.view addSubview:vi];
     NSLog(@"11111");
-    NSLog(@"22222333");
+    NSLog(@"222222222");
+    
 
     
-    // Do any additional setup after loading the view, typically from a nib.
+    
 }
 
 - (void)didReceiveMemoryWarning {
