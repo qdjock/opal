@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		045AF6ED1E48BA5E003734CD /* peopel.m in Sources */ = {isa = PBXBuildFile; fileRef = 045AF6EC1E48BA5E003734CD /* peopel.m */; };
+		045AF6F01E48BAC8003734CD /* uiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045AF6EF1E48BAC8003734CD /* uiViewController.m */; };
 		04E6DEB31DA95DAB002409C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E6DEB21DA95DAB002409C7 /* main.m */; };
 		04E6DEB61DA95DAB002409C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E6DEB51DA95DAB002409C7 /* AppDelegate.m */; };
 		04E6DEB91DA95DAB002409C7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E6DEB81DA95DAB002409C7 /* ViewController.m */; };
@@ -19,6 +20,8 @@
 /* Begin PBXFileReference section */
 		045AF6EB1E48BA5E003734CD /* peopel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = peopel.h; sourceTree = "<group>"; };
 		045AF6EC1E48BA5E003734CD /* peopel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = peopel.m; sourceTree = "<group>"; };
+		045AF6EE1E48BAC8003734CD /* uiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = uiViewController.h; sourceTree = "<group>"; };
+		045AF6EF1E48BAC8003734CD /* uiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = uiViewController.m; sourceTree = "<group>"; };
 		04E6DEAE1DA95DAB002409C7 /* 10.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 10.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E6DEB21DA95DAB002409C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		04E6DEB41DA95DAB002409C7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -66,6 +69,8 @@
 				04E6DEB71DA95DAB002409C7 /* ViewController.h */,
 				04E6DEB81DA95DAB002409C7 /* ViewController.m */,
 				045AF6EB1E48BA5E003734CD /* peopel.h */,
+				045AF6EE1E48BAC8003734CD /* uiViewController.h */,
+				045AF6EF1E48BAC8003734CD /* uiViewController.m */,
 				045AF6EC1E48BA5E003734CD /* peopel.m */,
 				04E6DEBA1DA95DAB002409C7 /* Main.storyboard */,
 				04E6DEBD1DA95DAB002409C7 /* Assets.xcassets */,
@@ -157,6 +162,7 @@
 				045AF6ED1E48BA5E003734CD /* peopel.m in Sources */,
 				04E6DEB91DA95DAB002409C7 /* ViewController.m in Sources */,
 				04E6DEB61DA95DAB002409C7 /* AppDelegate.m in Sources */,
+				045AF6F01E48BAC8003734CD /* uiViewController.m in Sources */,
 				04E6DEB31DA95DAB002409C7 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
