@@ -20,7 +20,9 @@
     vi.frame =self.view.bounds;
     vi.backgroundColor =[UIColor purpleColor];
     [self.view addSubview:vi];
-    NSLog(@"ssssssss");
+    NSLog(@"11111");
+    NSLog(@"22222333");
+
     
     // Do any additional setup after loading the view, typically from a nib.
 }
